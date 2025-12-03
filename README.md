@@ -158,8 +158,7 @@ modelo_lgb_com_threshold_034_real.pkl
 
 ---
 
-🧩 Benefícios para a Instituição
-
+## 🧩 Benefícios para a Instituição
 
 - Identificação antecipada de alunos com risco de evasão
 
